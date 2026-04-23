@@ -28,7 +28,7 @@ const BUSINESSES = [
     name: "Sips & Smiles",
     tagline: "Handcrafted drinks made with love 🧋",
     categories: ["drink"],
-    photo: "assets/images/sips.jpg",
+    photo: "assets/images/food.png",
     photoBg: "#FFD166",
     photoEmoji: "🧋",
     description:
