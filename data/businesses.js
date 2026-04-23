@@ -24,13 +24,13 @@
 
 const BUSINESSES = [
   {
-    id: "sips-n-smiles",
-    name: "Sips & Smiles",
+    id: "bisnis 1",
+    name: "bisnis 1",
     tagline: "Handcrafted drinks made with love 🧋",
     categories: ["drink"],
     photo: "assets/images/food.png",
     photoBg: "#FFD166",
-    photoEmoji: "🧋",
+    photoEmoji: "",
     description:
       "Sips & Smiles was founded by Anisa, a 11th-grader who has been passionate about mixology since middle school. We craft fresh, handmade boba teas, fruit infusions, and creamy matcha lattes right here on campus. Every cup is made to order — no premix, all love. Perfect for beating that afternoon slump between classes!",
     menuLink: "https://forms.gle/example-menu-1",
@@ -38,8 +38,8 @@ const BUSINESSES = [
     accentColor: "#E63946",
   },
   {
-    id: "crunch-corner",
-    name: "Crunch Corner",
+    id: "bisnis 2",
+    name: "bisnis 2",
     tagline: "Homemade snacks that hit different 🍱",
     categories: ["food", "accessories"],
     photo: "assets/images/crunch.jpg",
@@ -52,8 +52,8 @@ const BUSINESSES = [
     accentColor: "#E63946",
   },
   {
-    id: "thread-theory",
-    name: "Thread Theory",
+    id: "bisnis 3",
+    name: "bisnis 3",
     tagline: "Student-designed accessories & merch 🎨",
     categories: ["accessories"],
     photo: "assets/images/thread.jpg",
