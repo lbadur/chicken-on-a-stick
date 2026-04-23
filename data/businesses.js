@@ -87,8 +87,8 @@ const BUSINESSES = [
 //  Add a new line here if you create a brand new category.
 // ============================================================
 const CATEGORIES = [
-  { id: "all",         label: "All",         emoji: "✦" },
-  { id: "food",        label: "Food",         emoji: "🍱" },
-  { id: "drink",       label: "Drink",        emoji: "🧋" },
-  { id: "accessories", label: "Accessories",  emoji: "🎨" },
+  { id: "all",         label: "All",         emoji: "" },
+  { id: "food",        label: "Food",         emoji: "" },
+  { id: "drink",       label: "Drink",        emoji: "" },
+  { id: "accessories", label: "Accessories",  emoji: "" },
 ];
