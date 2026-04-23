@@ -26,7 +26,7 @@ const BUSINESSES = [
   {
     id: "bisnis 1",
     name: "bisnis 1",
-    tagline: "Handcrafted drinks made with love 🧋",
+    tagline: "details",
     categories: ["drink"],
     photo: "assets/food.jpg",
     photoBg: "#FFD166",
@@ -40,11 +40,11 @@ const BUSINESSES = [
   {
     id: "bisnis 2",
     name: "bisnis 2",
-    tagline: "Homemade snacks that hit different 🍱",
+    tagline: "details",
     categories: ["food", "accessories"],
     photo: "assets/images/crunch.jpg",
     photoBg: "#FCA311",
-    photoEmoji: "🍱",
+    photoEmoji: "",
     description:
       "Crunch Corner started as Rizky's weekend cooking hobby and grew into the most talked-about food stall at school. From crispy onion rings and mini spring rolls to Japanese-style onigiri, every item is prepped fresh each morning. We also sell cute reusable snack boxes and lunch bags — order yours with your meal!",
     menuLink: "https://forms.gle/example-menu-2",
@@ -54,11 +54,11 @@ const BUSINESSES = [
   {
     id: "bisnis 3",
     name: "bisnis 3",
-    tagline: "Student-designed accessories & merch 🎨",
+    tagline: "details",
     categories: ["accessories"],
     photo: "assets/thread.jpg",
     photoBg: "#E63946",
-    photoEmoji: "🎨",
+    photoEmoji: "",
     description:
       "Thread Theory is a student-run creative brand by Nabila & Dimas from the Arts program. We design and sell hand-painted tote bags, embroidered keychains, custom phone cases, and limited-edition school merch. Every piece is one-of-a-kind. If you want something personalised — a name, a design, a vibe — just let us know in the order form!",
     menuLink: "https://forms.gle/example-menu-3",
