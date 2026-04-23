@@ -28,7 +28,7 @@ const BUSINESSES = [
     name: "bisnis 1",
     tagline: "Handcrafted drinks made with love 🧋",
     categories: ["drink"],
-    photo: "assets/images/food.png",
+    photo: "assets/images/food.jpg",
     photoBg: "#FFD166",
     photoEmoji: "",
     description:
