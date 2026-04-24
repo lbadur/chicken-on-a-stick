@@ -72,7 +72,7 @@ function createCard(biz, index) {
 
   // Action buttons — only render a button if the link is not empty
   const menuBtn = biz.menuLink
-    ? `<a href="${biz.menuLink}" target="_blank" rel="noopener" class="btn-action btn-menu">Product</a>`
+    ? `<a href="${biz.menuLink}" target="_blank" rel="noopener" class="btn-action btn-menu">Menu</a>`
     : "";
   const orderBtn = biz.orderLink
     ? `<a href="${biz.orderLink}" target="_blank" rel="noopener" class="btn-action btn-order">Order</a>`
