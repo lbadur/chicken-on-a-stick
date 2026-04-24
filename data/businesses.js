@@ -42,7 +42,7 @@ const BUSINESSES = [
     name: "kofi",
     tagline: "details",
     categories: ["food", "accessories"],
-    photo: "assets/gifar.jpeg",
+    photo: "assets/gifar.jpg",
     photoBg: "#FCA311",
     photoEmoji: "",
     description:
