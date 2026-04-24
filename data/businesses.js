@@ -38,11 +38,11 @@ const BUSINESSES = [
     accentColor: "#E63946",
   },
   {
-    id: "bisnis 2",
-    name: "bisnis 2",
+    id: "kofi",
+    name: "kofi",
     tagline: "details",
     categories: ["food", "accessories"],
-    photo: "assets/gifar.jpg",
+    photo: "assets/gifar.jpeg",
     photoBg: "#FCA311",
     photoEmoji: "",
     description:
