@@ -32,7 +32,7 @@ const BUSINESSES = [
     photoBg: "#FFD166",
     photoEmoji: "",
     description:
-      "Sips & Smiles was founded by Anisa, a 11th-grader who has been passionate about mixology since middle school. We craft fresh, handmade boba teas, fruit infusions, and creamy matcha lattes right here on campus. Every cup is made to order — no premix, all love. Perfect for beating that afternoon slump between classes!",
+      "",
     menuLink: "https://forms.gle/example-menu-1",
     orderLink: "https://forms.gle/example-order-1",
     accentColor: "#E63946",
@@ -42,11 +42,11 @@ const BUSINESSES = [
     name: "bisnis 2",
     tagline: "details",
     categories: ["food", "accessories"],
-    photo: "assets/images/crunch.jpg",
+    photo: "assets/gifar.jpg",
     photoBg: "#FCA311",
     photoEmoji: "",
     description:
-      "Crunch Corner started as Rizky's weekend cooking hobby and grew into the most talked-about food stall at school. From crispy onion rings and mini spring rolls to Japanese-style onigiri, every item is prepped fresh each morning. We also sell cute reusable snack boxes and lunch bags — order yours with your meal!",
+      "",
     menuLink: "https://forms.gle/example-menu-2",
     orderLink: "https://forms.gle/example-order-2",
     accentColor: "#E63946",
@@ -60,7 +60,7 @@ const BUSINESSES = [
     photoBg: "#E63946",
     photoEmoji: "",
     description:
-      "Thread Theory is a student-run creative brand by Nabila & Dimas from the Arts program. We design and sell hand-painted tote bags, embroidered keychains, custom phone cases, and limited-edition school merch. Every piece is one-of-a-kind. If you want something personalised — a name, a design, a vibe — just let us know in the order form!",
+      "",
     menuLink: "https://forms.gle/example-menu-3",
     orderLink: "https://forms.gle/example-order-3",
     accentColor: "#E63946",
